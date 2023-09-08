@@ -9,7 +9,7 @@
     "clean": "rm -rf build tsconfig.tsbuildinfo dist .parcel-cache"
   },
   "keywords": [],
-  "author": "ashley@codecapers.com.au",
+  "author": "ongkristopher@gmail.com",
   "license": "MIT",
   "devDependencies": {
     "@types/react": "^18.0.14",
